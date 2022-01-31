@@ -3,6 +3,7 @@ Recoding functions of the standard C library and some utility functions
 
 # Skills mastered and knowledge obtained
   + Basics: variables/libraries/pointers/cycles
+  + Makefile
   + Bonus: linked lists
 
 # Results
